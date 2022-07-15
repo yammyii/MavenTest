@@ -1,0 +1,3 @@
+# 项目排除路径
+/MavenTest-Web/target/
+/target/
